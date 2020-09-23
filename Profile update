@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T11:52:32.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="LYf2QPoCFv7QvmbZq9_F" version="13.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-23T12:14:59.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="68VivPnmN6-g1GP6kZCj" version="13.7.2" type="github" pages="2">
   <diagram id="bxm2aKrnm6uCnEMWhn3r" name="Page-1">
     <mxGraphModel dx="660" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qRpZIXdsP4uWwINvZ4Jf" name="Page-2">
-    <mxGraphModel dx="455" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="454" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QtNNbGgHHJ_lTTrRYPJb-0" />
         <mxCell id="QtNNbGgHHJ_lTTrRYPJb-1" parent="QtNNbGgHHJ_lTTrRYPJb-0" />
@@ -223,7 +223,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_EjOFFO-2D68Sr3VARa8-84" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;rounded=0;align=left;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-0">
-          <mxGeometry x="10" y="180" width="200" height="210" as="geometry" />
+          <mxGeometry x="10" y="180" width="200" height="270" as="geometry" />
         </mxCell>
         <mxCell id="_EjOFFO-2D68Sr3VARa8-85" value="Configurations" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-84">
           <mxGeometry width="200" height="30" relative="1" as="geometry" />
@@ -239,18 +239,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_EjOFFO-2D68Sr3VARa8-89" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;rounded=0;align=left;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-84">
-          <mxGeometry y="90" width="200" height="90" as="geometry" />
+          <mxGeometry y="90" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_EjOFFO-2D68Sr3VARa8-90" value="Paramétres" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-89">
           <mxGeometry width="200" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_EjOFFO-2D68Sr3VARa8-91" value="...." style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-89">
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-91" value="Professeurs" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-89">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-118" value="" style="shape=mxgraph.signs.tech.ethernet;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-89">
+          <mxGeometry x="170" y="13.333333333333332" width="20" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-120" value="Etudiants" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-89">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-121" value="Parents" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-89">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_EjOFFO-2D68Sr3VARa8-94" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;rounded=0;align=left;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-0">
-          <mxGeometry x="220" y="270" width="200" height="340" as="geometry" />
+          <mxGeometry x="220" y="270" width="200" height="360" as="geometry" />
         </mxCell>
         <mxCell id="_EjOFFO-2D68Sr3VARa8-95" value="Paramétres" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-94">
           <mxGeometry width="200" height="30" relative="1" as="geometry" />
@@ -290,6 +303,29 @@
             <mxPoint y="180" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-114" value="Préférences" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-94">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="210" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-115" value="Absences" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-94">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="240" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-116" value="Sanctions" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-94">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="270" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-117" value="Orientations" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-94">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="300" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-119" value="" style="shape=mxgraph.signs.tech.ethernet;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-94">
+          <mxGeometry x="170" y="190" width="20" height="10" as="geometry" />
+        </mxCell>
         <mxCell id="_EjOFFO-2D68Sr3VARa8-106" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;rounded=0;align=left;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-0">
           <mxGeometry x="430" y="450" width="200" height="210" as="geometry" />
         </mxCell>
@@ -324,6 +360,37 @@
         <mxCell id="_EjOFFO-2D68Sr3VARa8-113" value="Autorisations" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-106">
           <mxGeometry width="200" height="30" relative="1" as="geometry">
             <mxPoint y="150" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-122" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;rounded=0;align=left;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-0">
+          <mxGeometry x="10" y="450" width="200" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-123" value="Ressources" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-122">
+          <mxGeometry width="200" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-124" value="Unités Enseignements" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-122">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-125" value="Matières" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-122">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-126" value="Matériels" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-122">
+          <mxGeometry y="1" width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-127" value="Domaines" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-122">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EjOFFO-2D68Sr3VARa8-128" value="Classes" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="_EjOFFO-2D68Sr3VARa8-122">
+          <mxGeometry width="200" height="30" relative="1" as="geometry">
+            <mxPoint y="120" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
