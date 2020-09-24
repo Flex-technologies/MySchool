@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T12:59:24.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="i1Rp00AVEfq1ZrUJz-8k" version="13.7.2" type="github" pages="2">
-  <diagram id="bxm2aKrnm6uCnEMWhn3r" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-09-24T12:54:37.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="P5NJLEGCZ1OZeSfR7EjH" version="13.7.2" type="github" pages="2">
+  <diagram id="bxm2aKrnm6uCnEMWhn3r" name="Profil update">
     <mxGraphModel dx="658" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -159,8 +159,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="qRpZIXdsP4uWwINvZ4Jf" name="Page-2">
-    <mxGraphModel dx="313" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="qRpZIXdsP4uWwINvZ4Jf" name="Menu">
+    <mxGraphModel dx="649" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="QtNNbGgHHJ_lTTrRYPJb-0" />
         <mxCell id="QtNNbGgHHJ_lTTrRYPJb-1" parent="QtNNbGgHHJ_lTTrRYPJb-0" />
